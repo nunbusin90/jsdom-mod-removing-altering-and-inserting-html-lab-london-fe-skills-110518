@@ -5,3 +5,5 @@
   var newHeader = document.createElement('h1');
   newHeader.id='victory';
   newHeader.innerText='Nayeon is the champion';
+  
+  body.appendChild(newHeader);
